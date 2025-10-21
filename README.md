@@ -20,3 +20,25 @@
 
 5. **Supports Iterative Design:**  
    Wireframes are easy to modify, enabling quick experimentation and refinement of ideas before moving to high-fidelity designs.
+
+## Key Elements of a Wireframe
+
+Wireframes are composed of several fundamental elements that help communicate the structure and functionality of a design. Understanding these elements is essential for creating effective wireframes.
+
+- **Layout Structure:**  
+  Defines the overall arrangement of content and UI elements on the page.  
+  *Example:* A homepage wireframe may include a header at the top, a main content area in the center, and a footer at the bottom, providing a clear visual hierarchy.
+
+- **Navigation:**  
+  Shows how users move through the application or website.  
+  *Example:* Including a top menu bar or sidebar in a wireframe demonstrates the available navigation paths, helping users understand how to access different sections.
+
+- **Content Placement:**  
+  Specifies where text, images, videos, and other media will appear.  
+  *Example:* Placing a featured product section prominently on an e-commerce homepage ensures users immediately see key offerings.
+
+- **Functionality:**  
+  Illustrates interactive elements and their behavior.  
+  *Example:* Buttons, forms, sliders, or search bars can be represented in a wireframe to indicate how users will interact with the system.
+
+By clearly representing these elements, wireframes guide both designers and developers in creating a user-friendly and visually coherent interface.
